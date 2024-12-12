@@ -17,4 +17,7 @@ git commands:
 15.git branch main----->it will change main branch. 
 16.git checkout main---->present working branch.
 17.git log --oneline --->it display commits.
+18.git push --.push the code to local to remote (git push -u remote main)
+19. git clone----> cloning the repositry from remote to local
+20. git pull ----->pulling the updated the resource from remote
 
